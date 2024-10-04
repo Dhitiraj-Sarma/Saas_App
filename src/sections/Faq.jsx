@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import { Element } from "react-scroll";
-import { faq } from "../constants";
+import { faq } from "../constants/index.jsx";
 import FaqItem from "../components/FaqItem";
 
 function Faq() {
